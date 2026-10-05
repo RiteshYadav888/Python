@@ -1,0 +1,25 @@
+names = ["Ritesh", "Nikhil", "Arpit"]  #// numbering always start with "0" ZERO........
+print(names)
+
+print(names[0])
+print(names[1])
+
+for name in names:
+    print(name)
+
+fruts = ["Apple", "Banana", "Mango", "orange"]
+print(fruts)
+
+print(fruts[2])
+## Lists Methods...
+fruts.append("Grapes")  #// Add new items......
+print(fruts)
+
+fruts.clear()   #// Clear all items.......
+print(fruts)
+
+
+
+
+
+
